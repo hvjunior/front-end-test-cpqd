@@ -1,0 +1,301 @@
+[{
+    "id": "1",
+    "device": "Truck GPS 1",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "2",
+    "device": "Truck GPS 2",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "3",
+    "device": "Truck GPS 3",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "4",
+    "device": "Truck GPS 4",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "5",
+    "device": "Truck GPS 5",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "6",
+    "device": "Truck GPS 6",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "7",
+    "device": "Truck GPS 7",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "8",
+    "device": "Truck GPS 8",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "9",
+    "device": "Truck GPS 9",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "10",
+    "device": "Truck GPS 10",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "11",
+    "device": "Truck GPS 11",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "12",
+    "device": "Truck GPS 12",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "13",
+    "device": "Truck GPS 13",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "14",
+    "device": "Truck GPS 14",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "15",
+    "device": "Truck GPS 15",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "16",
+    "device": "Truck GPS 16",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "17",
+    "device": "Truck GPS 17",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "18",
+    "device": "Truck GPS 18",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "19",
+    "device": "Truck GPS 19",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+},
+{
+    "id": "20",
+    "device": "Truck GPS 20",
+    "status": "offline",
+    "attrs": {
+        "1": [{
+            "id": 1,
+            "label": "protocol",
+            "static_value": "MQTT",
+            "template_id": "1",
+            "type": "meta",
+            "value_type": "string"
+        }]
+    }
+}
+]
