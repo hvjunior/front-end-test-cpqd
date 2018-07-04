@@ -71,13 +71,13 @@ npm start
 Após executar a task acima a interface gráfica estará disponível em: http://localhost:3000
 
 ## Teste funcional
-Esperamos que ao acessar a URL http://localhost:3000 possamos visualizar os dados contidos no arquivo JSON com um designer moderno, agradável e responsivo.
+Esperamos que ao acessar a URL http://localhost:3000 possamos visualizar os dados contidos no arquivo JSON com um design moderno, agradável e responsivo.
 
 ### Avaliação
 Avaliaremos o resultado seguindo esses pontos:
 
 - Resultado funcional
-- Resultado visual (**o designer é muito importante para nós**)
+- Resultado visual (**o design é muito importante para nós**)
 - Clareza e limpeza do código
 - Semântica HTML
 - Lógica de programação
