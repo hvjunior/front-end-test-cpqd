@@ -64,6 +64,7 @@ Deixamos uma task npm configurada:
 
 - Node.js:
 ```sh
+npm install
 npm start
 ```
 
