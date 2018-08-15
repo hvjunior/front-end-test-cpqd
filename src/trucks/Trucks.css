@@ -1,0 +1,17 @@
+.trucks {
+    margin-bottom: 20px;
+}
+
+.cardTruck {
+    position: relative;
+}
+
+.contentCard {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.titleCard {
+    font-weight: 600;
+    margin-right: 5px;
+}
